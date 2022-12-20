@@ -1,4 +1,4 @@
-  ##  Olá!  Eu sou o Lucas Marquese Batista 👋
+  ##  Olá!  Eu sou o Lucas Marquese Batista 🫡
 <div align="center">
   <a href="https://github.com/lmbatista">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lmbatista&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
