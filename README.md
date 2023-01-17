@@ -15,7 +15,9 @@
   
   <img align="center" alt="VISUALSTIDIO" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=30&color=currentColor"> 
  
-<img align="center" alt="VISUALSTIDIO" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=30&color=currentColor">
+  <img align="center" alt="VISUALSTIDIO" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=30&color=currentColor">
+  
+  <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=30&color=currentColor">
 </div>
     
 ##
