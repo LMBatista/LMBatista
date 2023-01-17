@@ -17,7 +17,7 @@
  
   <img align="center" alt="JAVASCRIPT" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=30&color=currentColor">
   
-  <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=50&color=currentColor">
+  <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=60&color=currentColor">
 </div>
     
 ##
